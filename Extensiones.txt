@@ -1,0 +1,11 @@
+auto close tag
+auto rename tag
+bracket paair colo
+code runner
+html boilerplate
+html snippets
+html tag wrapper
+live server preview
+live server
+nuget package
+prettier code
